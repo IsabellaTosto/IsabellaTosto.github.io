@@ -4,3 +4,5 @@ Hi my name is Bella and I am a senior marketing major with a minor in journalism
 ![Me](https://github.com/IsabellaTosto/IsabellaTosto.github.io/blob/main/Screen%20Shot%202021-02-04%20at%202.47.14%20PM.png?raw=true)
 
 [My Linkedin](https://www.linkedin.com/in/isabella-tosto-7b2206173/)
+<iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-YJeFl" src="https://datawrapper.dwcdn.net/YJeFl/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="559"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
